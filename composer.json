@@ -1,7 +1,18 @@
 {
     "name": "Mokie",
     "description": "Just another PHP micro-framework",
+    "license": "MIT",
+    "homepage": "https://github.com/perseval/mokie",
+    "keywords": ["library","framework", "micro framework", "micro-framework"],
+    "authors": [
+        {
+            "name": "Vérone Mankou",
+            "homepage": "https://github.com/perseval",
+            "role": "Developer"
+        }
+    ],
     "require": {
+        "php": "^7.0",
         "symfony/http-foundation": "^5.1",
         "nikic/fast-route": "^1.3",
         "filp/whoops": "^2.7",

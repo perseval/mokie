@@ -12,8 +12,8 @@ Just another PHP micro-framework
 * **[symfony/http-foundation](https://github.com/symfony/http-foundation)**
   * Simplifies request & reponse handling.
 * **[league/container](https://github.com/thephpleague/container)**
-  * Dependency injection container, for sharing common resources (like a database connection).
-* **[league/plates](http://platesphp.com/)**
+  * Dependency injection container, for sharing common resources.
+* **[league/plates](https://github.com/thephpleague/plates)**
   * A native PHP template systeminspired by [Twig](https://github.com/twigphp/Twig) template engine.
 
 ## Getting started 
