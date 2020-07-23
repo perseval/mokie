@@ -1,6 +1,7 @@
 # Mokie
 Just another PHP micro-framework
 
+
 ## What's included?
 
 * **[nikic/fast-route](https://github.com/nikic/FastRoute)**
@@ -16,9 +17,13 @@ Just another PHP micro-framework
 * **[league/plates](https://github.com/thephpleague/plates)**
   * A native PHP template systeminspired by [Twig](https://github.com/twigphp/Twig) template engine.
 
-## Getting started 
 
-1. `git clone` this repository
-2. `cd` into the cloned repository
-3. `composer install`
-4. `cp misc/.env.example .env`
+## Installation
+
+Mokie is available via Composer:
+
+```sh
+composer require perseval/mokie
+```
+
+Requires PHP 7.0 or newer.
